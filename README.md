@@ -8,8 +8,8 @@ You can start by first creating a new environment using `conda` or your preferre
 
 ```
 # using conda
-conda create -n fpfn python=3.9
-conda activate fpfn
+conda create -n senv python=3.9
+conda activate senv
 ```
 
 Next, install the dependencies in the `requirements.txt` file using,
